@@ -1,0 +1,23 @@
+# Core Framework
+fastapi
+uvicorn
+pydantic>=2.12,<3
+
+# AWS Integration
+boto3
+aws-cdk-lib==2.140.0
+constructs==10.3.0
+
+# Web Scraping
+selenium
+beautifulsoup4
+requests
+httpx
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+python-dotenv
+python-multipart

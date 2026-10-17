@@ -1,0 +1,1 @@
+{"AWSEBDockerrunVersion": "1", "Image": {"Name": "${Token[TOKEN.87]}", "Update": "true"}, "Ports": [{"ContainerPort": 8080}]}
