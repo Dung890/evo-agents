@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/danc",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/danc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:54+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "61a61327427b78467271fb58bca6fecdfc6d916823e2157328fb93deb4442b16",
+  "size_bytes": 132247,
+  "path": "raw/http/a6b64cd50117ff761706af228726034c9d506eb76d161f02de3377eff25f6ffa.html"
+}

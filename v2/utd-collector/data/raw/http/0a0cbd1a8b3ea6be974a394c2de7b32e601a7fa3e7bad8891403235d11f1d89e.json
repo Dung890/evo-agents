@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ims",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ims",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:25+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "7be560128a2a049a39dd35ac52f652a74279a31dc3f6c24e619501ad035ebba1",
+  "size_bytes": 136985,
+  "path": "raw/http/0a0cbd1a8b3ea6be974a394c2de7b32e601a7fa3e7bad8891403235d11f1d89e.html"
+}

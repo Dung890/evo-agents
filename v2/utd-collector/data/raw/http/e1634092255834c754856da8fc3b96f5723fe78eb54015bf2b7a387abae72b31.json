@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eemf",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eemf",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "a087a0e3143ff02f79ea3d0dfc45f26870d1db987138ca700a05f2e7b31ac72b",
+  "size_bytes": 173303,
+  "path": "raw/http/e1634092255834c754856da8fc3b96f5723fe78eb54015bf2b7a387abae72b31.html"
+}

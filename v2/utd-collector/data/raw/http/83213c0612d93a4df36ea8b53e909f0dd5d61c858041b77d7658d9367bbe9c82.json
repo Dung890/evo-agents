@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epcs",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epcs",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:06+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e2f418a60e2564325404e2f2016f609d4ee9e8ef1ebe01618703c40542aa2670",
+  "size_bytes": 118066,
+  "path": "raw/http/83213c0612d93a4df36ea8b53e909f0dd5d61c858041b77d7658d9367bbe9c82.html"
+}

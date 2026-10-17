@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/opre",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/opre",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:57+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "87fe05fa07f74a32398e50439d65b3392359e4847338aed93c7145b236be3c76",
+  "size_bytes": 142180,
+  "path": "raw/http/767055de9890d2a64cf2d6d6fca49541fc6931366c9155dcdb96ac7293e3fd94.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/obhr",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/obhr",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:55+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "a7a6e0a682bd65fe6a55b9c56e5fe788797bc232f4c213b73bbe27034b667f66",
+  "size_bytes": 136802,
+  "path": "raw/http/caca5f06ddc91e52c02f4790ec2fb56701df077c65c4a252a921fab3750b18fd.html"
+}

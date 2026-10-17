@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hlth",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hlth",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:22+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "6f52b45b2845b280c42c96f3a14f1f555dac8eab5a1768092ec2408aead528bc",
+  "size_bytes": 125731,
+  "path": "raw/http/f10d3f832a2eda5565a8a1c36a451165eeb0109ef67d6f20d0571059a375d688.html"
+}

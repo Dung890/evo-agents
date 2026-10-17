@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/meco",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/meco",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:33+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b8207054ee78bf42fb0a27d63ac931507153c8bcc3e44da41d957b49449165c7",
+  "size_bytes": 177046,
+  "path": "raw/http/eee023dd3354236a09d7161ca5f2d250ed2e12f4d6d65b8b0c8ea1a6a4ab67b9.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acct",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acct",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:53:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5504e67cd32866186166f42065fe066ee99eeeed4af36bcc80fd68f0b93ac960",
+  "size_bytes": 135061,
+  "path": "raw/http/c58a0cc61871bfe480e1a8de342f27116a45310942ec7cdebc4549f847f568e8.html"
+}

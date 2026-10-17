@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/thea",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/thea",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:17+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "cdc7704782d24d2f38ef0f856338cfaf94b267305ad3d339d83a87f9bac5a2cf",
+  "size_bytes": 137071,
+  "path": "raw/http/633c72d0e6f21643041f75665f097c4168f10d661e302d04be51f61afe894850.html"
+}

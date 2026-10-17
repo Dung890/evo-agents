@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isae",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isae",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:31+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b648a70e22497b1a733f12b6a1989c1859d1fd808f66cc92ae802be5e6d30c93",
+  "size_bytes": 115159,
+  "path": "raw/http/9abad6460296d99303cc6ede6c8cf3908405c8849096538523aedfee52a1361e.html"
+}

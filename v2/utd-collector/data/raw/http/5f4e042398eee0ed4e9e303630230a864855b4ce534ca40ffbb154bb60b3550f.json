@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eerf",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eerf",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:02+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "890088f8178e7464a6916f98ab06ab4c156fae9d4247ca729b8cdb436d356a9e",
+  "size_bytes": 170393,
+  "path": "raw/http/5f4e042398eee0ed4e9e303630230a864855b4ce534ca40ffbb154bb60b3550f.html"
+}

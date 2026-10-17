@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/musi",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/musi",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:53+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "964658634d6d04fc5292cfc016651fac9f6a50f2093bebce46bca59731b8d588",
+  "size_bytes": 153496,
+  "path": "raw/http/1dc278eac32a8a0a163a37ec25d13a3751dfb862249299549f9a252b5f985e02.html"
+}

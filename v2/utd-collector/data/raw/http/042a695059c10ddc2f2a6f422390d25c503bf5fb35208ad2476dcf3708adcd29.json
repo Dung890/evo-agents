@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/aud",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/aud",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:35+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "52c182447b150c7f66abfed0569dc90dcdec18cbb1e828ad2f39a120c92510f3",
+  "size_bytes": 191955,
+  "path": "raw/http/042a695059c10ddc2f2a6f422390d25c503bf5fb35208ad2476dcf3708adcd29.html"
+}

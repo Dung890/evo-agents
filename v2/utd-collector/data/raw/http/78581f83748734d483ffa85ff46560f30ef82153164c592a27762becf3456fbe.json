@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/smed",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/smed",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:53+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "c54aa9213f5b606e3f25218a8f6d029495e7b93489b0ef5980edf0e21d349b11",
+  "size_bytes": 167153,
+  "path": "raw/http/78581f83748734d483ffa85ff46560f30ef82153164c592a27762becf3456fbe.html"
+}

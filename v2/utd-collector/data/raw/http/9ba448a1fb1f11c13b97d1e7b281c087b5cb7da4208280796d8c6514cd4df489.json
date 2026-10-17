@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/mthe",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/mthe",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:38+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "6523e170caae897e61a3ffd6620623695d60a71e9e52a74de653b21f9c0a1f11",
+  "size_bytes": 172138,
+  "path": "raw/http/9ba448a1fb1f11c13b97d1e7b281c087b5cb7da4208280796d8c6514cd4df489.html"
+}

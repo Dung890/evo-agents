@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/lit",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/lit",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:24+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "36b62046255f3d00e29da5a5bb9860c4ea577112ab2216a9fbd965de8f3567e8",
+  "size_bytes": 178994,
+  "path": "raw/http/ea297ef3eb9707f297f399706c0172c8fd319f7d67195dd52c7989e0b4aeb663.html"
+}

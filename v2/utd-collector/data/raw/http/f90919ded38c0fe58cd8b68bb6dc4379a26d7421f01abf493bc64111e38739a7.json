@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ed",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ed",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:57+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "6f222eedaaeb632be9c643b6edbad9511843e9609957edc9541569bc39c0f356",
+  "size_bytes": 134491,
+  "path": "raw/http/f90919ded38c0fe58cd8b68bb6dc4379a26d7421f01abf493bc64111e38739a7.html"
+}

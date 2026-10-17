@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phil",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phil",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:59+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "3b6e10d0f72ff7d76a8d6236ffa1fa848f1647b99a0ceb64ef245f52e30d14cb",
+  "size_bytes": 140329,
+  "path": "raw/http/a37b5fdb4f86142e9f0a4e0fc188ad2829ee8df29e9b42b1495be4da55125fd7.html"
+}

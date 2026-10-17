@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/real",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/real",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:50+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ee90d48ebe74bdd34953de5bdc1fa83a75415b4004349fa2347c46fd80a18217",
+  "size_bytes": 168142,
+  "path": "raw/http/856b8625262947b18237cab2573c8dca9dfa7fa72e04a7dc1b934b394b7714e4.html"
+}

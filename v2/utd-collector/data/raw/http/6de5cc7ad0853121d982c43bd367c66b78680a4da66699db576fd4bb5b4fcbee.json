@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/hcs",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/hcs",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:13+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "437af0f496e8acea2b42927fdbf069828211513f54bc6999c144e85a3eda7149",
+  "size_bytes": 238416,
+  "path": "raw/http/6de5cc7ad0853121d982c43bd367c66b78680a4da66699db576fd4bb5b4fcbee.html"
+}

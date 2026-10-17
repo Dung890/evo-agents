@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/msen",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/msen",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:35+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ee89609c9bd2ee56a3de3479f45bfae182f5336871545dac2be24ddea63b631f",
+  "size_bytes": 194168,
+  "path": "raw/http/23d5c110d7d43d1c5e651d619ef26e385197495fbe7be11cf247d17241c7214e.html"
+}

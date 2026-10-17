@@ -1,0 +1,27 @@
+{
+  "checked_on": "2026-10-17",
+  "coursebook_current_search": {
+    "requested_url": "https://coursebook.utdallas.edu/catbook/unlock/cs4337/term_26f",
+    "observed_redirect_url": "https://wat.utdallas.edu/login/catbook",
+    "status": "sign_in_required"
+  },
+  "coursebook_guided_guest_search": {
+    "requested_url": "https://coursebook.utdallas.edu/clips/clip-cb11-hat.zog",
+    "method": "POST",
+    "form": {
+      "action": "search",
+      "s[]": [
+        "term_26f",
+        "cp_cs"
+      ]
+    },
+    "status": "HTTP 404"
+  },
+  "catalog_collection_status": "complete_for_2026_undergraduate_and_graduate_prefix_indexes",
+  "syllabus_collection_status": "seven_public_spring_2026_PDFs_only; full_semester_inventory_not_acquired",
+  "next_input_for_expansion": "Public syllabus URL inventory or authorized CourseBook export with course, semester, section, and syllabus URL fields",
+  "robots_sources": {
+    "catalog": "https://catalog.utdallas.edu/robots.txt",
+    "coursebook": "https://coursebook.utdallas.edu/robots.txt"
+  }
+}

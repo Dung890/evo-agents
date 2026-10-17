@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arab",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arab",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:20+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ddd22c3db0f969ed8460bfa138bb31b6f8be59748259f0b5a6211c0bc5ba03ff",
+  "size_bytes": 118583,
+  "path": "raw/http/a184cbfe1215fd7cd04f2643f04ffb5e503c14649cfb1127350d9f14fe9e532a.html"
+}

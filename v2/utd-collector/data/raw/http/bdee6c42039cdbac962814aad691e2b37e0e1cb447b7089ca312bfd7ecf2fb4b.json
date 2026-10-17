@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isis",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isis",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:34+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e6a558b6e9c4041b7ca68799cb1f3b739b64b164908fe70e90349a8b2deb1725",
+  "size_bytes": 119907,
+  "path": "raw/http/bdee6c42039cdbac962814aad691e2b37e0e1cb447b7089ca312bfd7ecf2fb4b.html"
+}

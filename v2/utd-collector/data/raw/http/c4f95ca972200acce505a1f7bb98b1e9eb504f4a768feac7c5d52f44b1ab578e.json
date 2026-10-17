@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/buan",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/buan",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:37+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ddf08b8380e6193ac61e7d5bdbefdd2870131510c754fdb5dc32662421751a98",
+  "size_bytes": 212317,
+  "path": "raw/http/c4f95ca972200acce505a1f7bb98b1e9eb504f4a768feac7c5d52f44b1ab578e.html"
+}

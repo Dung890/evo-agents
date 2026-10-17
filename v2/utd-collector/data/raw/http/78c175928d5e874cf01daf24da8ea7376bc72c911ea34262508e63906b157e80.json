@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/comd",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/comd",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:41+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "0841adb21f0424a112b86c8ca7f76d25e49d7cc5d82dc7face5257720e9b7870",
+  "size_bytes": 208480,
+  "path": "raw/http/78c175928d5e874cf01daf24da8ea7376bc72c911ea34262508e63906b157e80.html"
+}

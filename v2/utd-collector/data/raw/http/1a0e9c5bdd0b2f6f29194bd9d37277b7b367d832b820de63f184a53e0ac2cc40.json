@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eeop",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eeop",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "78d5450c4aeb69c633f683be56f17e7b6f6c9fb820a6052d447df837c9058814",
+  "size_bytes": 166614,
+  "path": "raw/http/1a0e9c5bdd0b2f6f29194bd9d37277b7b367d832b820de63f184a53e0ac2cc40.html"
+}

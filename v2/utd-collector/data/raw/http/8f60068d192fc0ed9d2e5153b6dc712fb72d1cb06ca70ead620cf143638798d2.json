@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psci",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psci",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:03+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "bef3da0ae19b21b9d6e6d94fab4260a5185cac55a7feacedd1e9da149aa596b6",
+  "size_bytes": 164227,
+  "path": "raw/http/8f60068d192fc0ed9d2e5153b6dc712fb72d1cb06ca70ead620cf143638798d2.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phin",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phin",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:59+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "a1c1ff7272348d9c5f5744191fa1f9f0d847125ca058da716b1e9d1c4c558bc7",
+  "size_bytes": 123922,
+  "path": "raw/http/fdfb0b23ca61b7b582ab2c437b9ea9730620487ea415672c5a37b86a28a8828d.html"
+}

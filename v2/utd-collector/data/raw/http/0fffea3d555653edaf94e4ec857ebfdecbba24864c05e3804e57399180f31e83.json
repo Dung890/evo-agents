@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chin",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chin",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "3ab0a1289de060375dedee8de5efe141ff5f7265cf94a9f601cfe790b41a2747",
+  "size_bytes": 121168,
+  "path": "raw/http/0fffea3d555653edaf94e4ec857ebfdecbba24864c05e3804e57399180f31e83.html"
+}

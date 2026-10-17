@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nsc",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nsc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:55+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e8805092ad67ffee67252a63433b3ff43232a8252bebe0543654467802f4adce",
+  "size_bytes": 155354,
+  "path": "raw/http/52b6e6460413cdd5d03559586d7963047813f6d1702b63dfc140cc254f454ee6.html"
+}

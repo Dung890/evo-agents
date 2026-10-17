@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cldp",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cldp",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4f36896c844cac9df3d4ca9b917daf7a51ee08e217a3d6f83aff0320eb920171",
+  "size_bytes": 145152,
+  "path": "raw/http/dd66214ee3c099d6b11dc804bb75fbd8a0aaa2d3b86e26f3a656c43f3808c14a.html"
+}

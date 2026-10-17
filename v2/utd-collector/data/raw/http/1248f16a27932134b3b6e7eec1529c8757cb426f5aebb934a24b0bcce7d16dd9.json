@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engy",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engy",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:01+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "220d2deead001fe5986adcdf9bb5ff1258c8805b41dd498b58aeda68e6ff2ba8",
+  "size_bytes": 121662,
+  "path": "raw/http/1248f16a27932134b3b6e7eec1529c8757cb426f5aebb934a24b0bcce7d16dd9.html"
+}

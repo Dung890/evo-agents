@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/syse",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/syse",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "1303c5cbde07a6cd8b7ae9538353bb5e06df4a4d9f4e5983275635569e40e22e",
+  "size_bytes": 172160,
+  "path": "raw/http/b7fc4d1aefdf2b622c6f242978344ea1808ee4ca1979e81611fa5a4f6a04e893.html"
+}

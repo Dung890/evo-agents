@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/film",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/film",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:09+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "900b09a12aa8f70d0f312d3b70d40af29a6ac42aac3c1b496c5690297819e1e3",
+  "size_bytes": 124115,
+  "path": "raw/http/d63608da6c4dd902ec78b49733f440a1856823816144619ea30a7955164a526b.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/spau",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/spau",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:14+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e71ff984dc508dab3c0ecee6de6e2ef368e537fcb6dcb4dd8300a5494d917ec9",
+  "size_bytes": 137259,
+  "path": "raw/http/45ea7453b57187e825cec6d40451c4dd300679cac9478459b5944ea1d8a2e249.html"
+}

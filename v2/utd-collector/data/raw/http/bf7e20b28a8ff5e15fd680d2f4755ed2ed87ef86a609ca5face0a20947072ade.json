@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/stat",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/stat",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:53+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "abeebb2ee932af78d2f779e88d91fc1e40376c47dac2526f96fed4cc7d2fc460",
+  "size_bytes": 194110,
+  "path": "raw/http/bf7e20b28a8ff5e15fd680d2f4755ed2ed87ef86a609ca5face0a20947072ade.html"
+}

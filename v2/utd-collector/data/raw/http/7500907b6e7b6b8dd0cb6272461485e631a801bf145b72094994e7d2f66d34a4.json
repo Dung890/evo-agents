@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hind",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hind",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:17+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "a1977020c745983263d73b9559867275b34be92a97e04b8561a1ae92931e08c4",
+  "size_bytes": 113829,
+  "path": "raw/http/7500907b6e7b6b8dd0cb6272461485e631a801bf145b72094994e7d2f66d34a4.html"
+}

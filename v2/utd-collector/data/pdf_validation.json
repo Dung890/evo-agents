@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dox:syl162945",
+    "file": "syllabi/syl162945.pdf",
+    "pages": 10,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl163857",
+    "file": "syllabi/syl163857.pdf",
+    "pages": 6,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl165537",
+    "file": "syllabi/syl165537.pdf",
+    "pages": 5,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl164919",
+    "file": "syllabi/syl164919.pdf",
+    "pages": 2,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl165262",
+    "file": "syllabi/syl165262.pdf",
+    "pages": 9,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl164505",
+    "file": "syllabi/syl164505.pdf",
+    "pages": 12,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  },
+  {
+    "id": "dox:syl166037",
+    "file": "syllabi/syl166037.pdf",
+    "pages": 8,
+    "sha256_matches": true,
+    "spring_2026_header_found": true,
+    "claimed_course_reference_found": true
+  }
+]

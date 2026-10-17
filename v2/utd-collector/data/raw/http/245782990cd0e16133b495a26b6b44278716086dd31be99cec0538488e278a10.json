@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/pa",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/pa",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:59+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "eab5b34a7362a51833c9f77f6085f9941f6967a249d1c3afe1044cd3d10ec0bf",
+  "size_bytes": 139942,
+  "path": "raw/http/245782990cd0e16133b495a26b6b44278716086dd31be99cec0538488e278a10.html"
+}

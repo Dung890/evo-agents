@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rhet",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rhet",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:07+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "70cfc8769233bb2905db06a120ee7ec819be3e2277185595da71a0695ed894ea",
+  "size_bytes": 118658,
+  "path": "raw/http/55a8e06437194bcb8d294cab71f1e666399f6eb5f62b041765f5b394e5293474.html"
+}

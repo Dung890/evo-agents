@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arts",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arts",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:22+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b3a4959dc1e9c3a0b18edf8d50bab3d2e2102143efaa98edd5b5bd180e9bf183",
+  "size_bytes": 165051,
+  "path": "raw/http/307ccbcc6736642228dc7e290a569b0ff0f02e5ccbe953924ce4916cfb8d8704.html"
+}

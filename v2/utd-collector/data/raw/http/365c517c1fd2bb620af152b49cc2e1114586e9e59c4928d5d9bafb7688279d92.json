@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engr",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engr",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:01+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "30587c516de0f0ff23fd43e1be9ea9829e7774b6b287dd31ec51a2fbdd141c32",
+  "size_bytes": 117275,
+  "path": "raw/http/365c517c1fd2bb620af152b49cc2e1114586e9e59c4928d5d9bafb7688279d92.html"
+}

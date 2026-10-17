@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chem",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chem",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:38+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b7fe6bace4f37ca922fb6c552425bdeb20ac2b676b1278f250631085b2541524",
+  "size_bytes": 157370,
+  "path": "raw/http/e08edc480c7258756cd37c604a3d43419ad2ca1cb24a897cb7982146202e867d.html"
+}

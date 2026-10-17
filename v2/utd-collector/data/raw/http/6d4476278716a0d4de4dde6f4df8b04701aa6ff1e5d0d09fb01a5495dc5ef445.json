@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/entp",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/entp",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:05+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "cc4e11e969b76bc51b1eafed56f92728f7113bdc20fe8be8a0bfd81a20414c1a",
+  "size_bytes": 198264,
+  "path": "raw/http/6d4476278716a0d4de4dde6f4df8b04701aa6ff1e5d0d09fb01a5495dc5ef445.html"
+}

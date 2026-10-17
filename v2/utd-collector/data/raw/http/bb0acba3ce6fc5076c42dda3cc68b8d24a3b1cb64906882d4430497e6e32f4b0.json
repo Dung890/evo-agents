@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/envr",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/envr",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:06+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b2f2fdc8f070afa3d89bfdcc4bc9cacacfafdf11f684608b24a8ef01a1f15265",
+  "size_bytes": 119604,
+  "path": "raw/http/bb0acba3ce6fc5076c42dda3cc68b8d24a3b1cb64906882d4430497e6e32f4b0.html"
+}

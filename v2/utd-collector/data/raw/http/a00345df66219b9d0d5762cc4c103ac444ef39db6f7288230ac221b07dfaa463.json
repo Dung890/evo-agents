@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/biol",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/biol",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:30+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b378b4787bcb6b36c72d160a28b6a1e297b2c6ad2612d31f476883b7a16db4dc",
+  "size_bytes": 201817,
+  "path": "raw/http/a00345df66219b9d0d5762cc4c103ac444ef39db6f7288230ac221b07dfaa463.html"
+}

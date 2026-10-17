@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ams",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ams",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:06+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "fa979341a4e9ff32a38d9adbb4888ed3aec46dabf8bb69d1ee39f682928131c7",
+  "size_bytes": 126085,
+  "path": "raw/http/5a0da6352414ad7924623ce9f6ce0b73d09771a819a46369f403d7fa12ab92db.html"
+}

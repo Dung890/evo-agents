@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/huhi",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/huhi",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:18+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "846dff11f6ddc3dfb06103b11235bbf361ebd98abe700e34fbab52920068642b",
+  "size_bytes": 163741,
+  "path": "raw/http/f442ea391df5bb4d975796e21ae024d97e6ccb1e1bf4bc5b791f5c027e0155d7.html"
+}

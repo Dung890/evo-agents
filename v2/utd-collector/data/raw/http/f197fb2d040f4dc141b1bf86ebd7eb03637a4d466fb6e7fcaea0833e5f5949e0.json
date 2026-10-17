@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geog",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geog",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:12+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "8f96e93f2fb70849e1c74600f6cddae6f432a774a884baf88774cd5aa0b49a45",
+  "size_bytes": 125818,
+  "path": "raw/http/f197fb2d040f4dc141b1bf86ebd7eb03637a4d466fb6e7fcaea0833e5f5949e0.html"
+}

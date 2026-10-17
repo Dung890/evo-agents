@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cybr",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cybr",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:48+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b179e7e55c2d771d7f4930cb5db829fb779162bb85fe3cae02b47c8ec47b29f9",
+  "size_bytes": 132727,
+  "path": "raw/http/15cc7952c646aaea9f49a1472097dbfa601d672be9b7523158f0e8318ff93c6d.html"
+}

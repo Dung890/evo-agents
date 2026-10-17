@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/geos",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/geos",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:08+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "fa69858d67750b98b045de0bb5b92d5cbda4b12a5409d5b714618207a3a779d7",
+  "size_bytes": 202114,
+  "path": "raw/http/907fa7f09556ddaf9f9a8fce7c65d8cd1f09988a2ded87e449fb720dacec5806.html"
+}

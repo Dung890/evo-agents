@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epps",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epps",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:06+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "9ec3b12770fbeb66ee13ce8fd905d973d9b19f6a765bc5cb7b834c97427bc350",
+  "size_bytes": 133305,
+  "path": "raw/http/def93250558aa7e8b9c4a7697c112724370fb44c6a38142ff3c0125678f65119.html"
+}

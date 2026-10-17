@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ipec",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ipec",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:21+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "49eaba4c49bdb06a537c7e760fe384a8f025fa9386f25f8e115aceed2ac1b5c2",
+  "size_bytes": 163878,
+  "path": "raw/http/290c1f6b12d732f5c66a8f8bbbb5b63d05415be3b718803e9bef55530be2070c.html"
+}

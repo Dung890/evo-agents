@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hons",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hons",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:25+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d749b791127ed33eeb6c304a8c739acdef43c1f58e6317d2200779a27a850958",
+  "size_bytes": 128377,
+  "path": "raw/http/9ba9038b7c25d0506a942f532547905d09cc38b9848e177c9ab121dc2757f3a5.html"
+}

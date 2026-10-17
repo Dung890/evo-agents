@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/sci",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/sci",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:50+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "1abc25171f05cf05bf04b34430eb63fc878197376f0100ce4f6183b47e210720",
+  "size_bytes": 176617,
+  "path": "raw/http/6b33a7d2bc29c6789371361210bc8c3b021a5a86efe1262d43f3b90abe8548a7.html"
+}

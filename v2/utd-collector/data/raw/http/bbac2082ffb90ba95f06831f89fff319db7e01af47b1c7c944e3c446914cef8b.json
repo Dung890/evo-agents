@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fren",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fren",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:09+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "07c508dfbefed8ab08407e68b9867f2023afcaf7a37db2f2c44649897671251c",
+  "size_bytes": 116954,
+  "path": "raw/http/bbac2082ffb90ba95f06831f89fff319db7e01af47b1c7c944e3c446914cef8b.html"
+}

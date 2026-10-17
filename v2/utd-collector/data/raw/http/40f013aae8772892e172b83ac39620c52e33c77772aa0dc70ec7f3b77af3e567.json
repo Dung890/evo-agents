@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/vpas",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/vpas",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "9b7c16458351d0da911af1458c84d50da9e5fdf7f0109cb3d66fb20f6606df36",
+  "size_bytes": 196666,
+  "path": "raw/http/40f013aae8772892e172b83ac39620c52e33c77772aa0dc70ec7f3b77af3e567.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bbsu",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bbsu",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:25+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "0aa4bab75aae6fa44d3039fb085fa72b86193a06ab2f9198b246cfaa2c4d541c",
+  "size_bytes": 116756,
+  "path": "raw/http/d293bbba865332e3850f674467de0cc5e0376300333758ef0bc966e5afc13901.html"
+}

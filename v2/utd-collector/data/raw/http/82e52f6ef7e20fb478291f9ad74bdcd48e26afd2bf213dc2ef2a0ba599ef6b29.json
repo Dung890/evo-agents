@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/soc",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/soc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:14+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "1181c48e23e652b7f53fe7ebb87d80e9b349ca9c5288e127d2bcc581130e910a",
+  "size_bytes": 144860,
+  "path": "raw/http/82e52f6ef7e20fb478291f9ad74bdcd48e26afd2bf213dc2ef2a0ba599ef6b29.html"
+}

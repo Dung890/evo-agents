@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/bps",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/bps",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:37+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "6e4f3369ee631222f203cbed1e64bfcd52a5e5f7a5f29fd06521b69394760a95",
+  "size_bytes": 177263,
+  "path": "raw/http/cb9892e35eecb3c097096289eda3b27dbb0a66dc500903ba71942e0e366e4324.html"
+}

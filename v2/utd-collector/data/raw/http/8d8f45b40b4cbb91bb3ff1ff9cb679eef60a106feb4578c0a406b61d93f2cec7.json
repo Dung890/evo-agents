@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/idea",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/idea",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:21+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "3d6ea2aecbf5734f51bbb3527a9e705186623c86da7c25bcdd0a6c157d332947",
+  "size_bytes": 165562,
+  "path": "raw/http/8d8f45b40b4cbb91bb3ff1ff9cb679eef60a106feb4578c0a406b61d93f2cec7.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mils",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mils",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:50+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5b2f466835f47915818e25ce4fa8db180438e2e65b0d20b72a9ae27af25ccf79",
+  "size_bytes": 123116,
+  "path": "raw/http/f4f4b8885728e9e9ce51321717c39276c2873d538f9611c0e666717147799658.html"
+}

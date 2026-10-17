@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahtc",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahtc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:47:59+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "671e5d47aaa91538c06fe4f379073168c874e62ec2c071e7006ebcd054dc73b5",
+  "size_bytes": 119984,
+  "path": "raw/http/4baab9677c84a1d25dcf27de85ce128f8d35c8d9cbd6ebc3c1f130f7f1f1b644.html"
+}

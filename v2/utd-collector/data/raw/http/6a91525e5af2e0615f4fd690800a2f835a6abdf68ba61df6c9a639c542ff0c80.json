@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/mkt",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/mkt",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:33+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "98320081544cbf82a46d1b042593028e461abeaa34b775e8b90f31077182ca6c",
+  "size_bytes": 196542,
+  "path": "raw/http/6a91525e5af2e0615f4fd690800a2f835a6abdf68ba61df6c9a639c542ff0c80.html"
+}

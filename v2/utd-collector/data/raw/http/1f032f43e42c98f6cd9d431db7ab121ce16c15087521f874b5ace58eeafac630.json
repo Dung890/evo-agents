@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/real",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/real",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:07+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "f544035742d98581a98a75ebe2435b2ec56b83cc80bc5e20c371c8fc95c6b24a",
+  "size_bytes": 123352,
+  "path": "raw/http/1f032f43e42c98f6cd9d431db7ab121ce16c15087521f874b5ace58eeafac630.html"
+}

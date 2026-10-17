@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/meco",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/meco",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:47+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d1f2b07d881db658a749fe822042e417008007240943fbf2021e80fc3da65fc5",
+  "size_bytes": 125918,
+  "path": "raw/http/6df359c1c554d7f39e241006082f58b30cec3b2980770319378bf1d6181e6c1a.html"
+}

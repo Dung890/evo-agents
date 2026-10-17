@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/cs",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/cs",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:44:44+00:00",
+  "http_status": 200,
+  "content_type": "text/html",
+  "sha256": "7d71e4cb9220de26a40d954d37f1c0436d9d6262ead9c18ae6769d196a4a2a16",
+  "size_bytes": 221725,
+  "path": "raw/http/2fcd7bc34ccc990b135b4402ec6b91f831a3417b07ff4072aee06f87164bc8e4.html"
+}

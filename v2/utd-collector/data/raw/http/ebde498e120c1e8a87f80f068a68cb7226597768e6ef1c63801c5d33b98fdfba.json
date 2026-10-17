@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/blaw",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/blaw",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:32+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "fc2300820ba5a58b6f20ece89cbe472a4fba450e31fb5476e1b4be14d96562a7",
+  "size_bytes": 117477,
+  "path": "raw/http/ebde498e120c1e8a87f80f068a68cb7226597768e6ef1c63801c5d33b98fdfba.html"
+}

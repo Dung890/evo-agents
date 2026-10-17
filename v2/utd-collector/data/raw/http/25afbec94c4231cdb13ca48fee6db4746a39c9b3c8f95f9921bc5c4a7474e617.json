@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/fin",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/fin",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:05+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ed85a37926dca9fd4de7d8945dcf7b0bd6fb368eefcdb084b110e4213c12649e",
+  "size_bytes": 195498,
+  "path": "raw/http/25afbec94c4231cdb13ca48fee6db4746a39c9b3c8f95f9921bc5c4a7474e617.html"
+}

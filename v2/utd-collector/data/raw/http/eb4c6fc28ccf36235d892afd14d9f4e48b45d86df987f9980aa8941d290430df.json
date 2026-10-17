@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/bmen",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/bmen",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:35+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4fe9cc0c13a3ea5d2131286a490498bd3afa278e53856293e67d48d13d7e2334",
+  "size_bytes": 221069,
+  "path": "raw/http/eb4c6fc28ccf36235d892afd14d9f4e48b45d86df987f9980aa8941d290430df.html"
+}

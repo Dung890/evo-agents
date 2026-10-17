@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-10-17T21:55:43+00:00",
+  "passed": true,
+  "checks": {
+    "http_response_files_checked": 193,
+    "catalog_pages_checked": 184,
+    "course_records_checked": 5122,
+    "source_course_entries_accounted_for": 5123,
+    "unique_record_ids": true,
+    "course_count_matches_report": true,
+    "requested_pages_complete": true,
+    "catalog_resume_network_requests": 0,
+    "syllabus_pdfs_checked": 7,
+    "pdfs_previously_opened_and_header_checked": 7
+  },
+  "errors": []
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/stat",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/stat",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:17+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "592b3528d6a500f76b79140b4289b7fa1e5ad4459adbc15444cf7e0068bf084e",
+  "size_bytes": 134925,
+  "path": "raw/http/3c98bf3137b6ecfdb0cc267f03cb65c90fd1556c1911752ff82f5400c99b7ec4.html"
+}

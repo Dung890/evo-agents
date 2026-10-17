@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ed",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ed",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:48+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "aba032be8216877543dc12bb606a6ef457ae46738b39f4626b71aa4bbb9c8c4e",
+  "size_bytes": 167882,
+  "path": "raw/http/70ae7fd3a5e516216e6fba66fa1cb21cf2e2d56e966aeb9b7843f40252d3b5e4.html"
+}

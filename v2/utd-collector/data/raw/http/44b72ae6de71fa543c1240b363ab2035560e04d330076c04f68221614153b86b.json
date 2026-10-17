@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eesc",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eesc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:02+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "6fb2e0b68c9c06abf58b9419373762733f7992ae01c40aa37f5e70126a6eba7b",
+  "size_bytes": 181112,
+  "path": "raw/http/44b72ae6de71fa543c1240b363ab2035560e04d330076c04f68221614153b86b.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lats",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lats",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:42+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "7f5e1ed8a6f9215a5110a4258dbbdcc6ceb200b18e15990298c3eaefa81355fa",
+  "size_bytes": 118053,
+  "path": "raw/http/5d0051eb081608e6d861392a0aa7f8a3a3ada6b3a3ad3d8631fe0121ce7a2b49.html"
+}

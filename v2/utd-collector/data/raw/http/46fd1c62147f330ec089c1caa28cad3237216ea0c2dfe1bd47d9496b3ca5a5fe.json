@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eect",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eect",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:53+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "021f7ce890a9544da38a961f56bc99ffbbfad53188c345e3f5a5aa253756b10f",
+  "size_bytes": 168964,
+  "path": "raw/http/46fd1c62147f330ec089c1caa28cad3237216ea0c2dfe1bd47d9496b3ca5a5fe.html"
+}

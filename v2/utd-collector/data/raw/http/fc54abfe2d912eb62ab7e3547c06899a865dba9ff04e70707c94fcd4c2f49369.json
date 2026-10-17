@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ba",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ba",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:23+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "9360887ab2a35eb59075ba188756f25c299db9bfe87426b465ac1e0f9c10bf60",
+  "size_bytes": 129407,
+  "path": "raw/http/fc54abfe2d912eb62ab7e3547c06899a865dba9ff04e70707c94fcd4c2f49369.html"
+}

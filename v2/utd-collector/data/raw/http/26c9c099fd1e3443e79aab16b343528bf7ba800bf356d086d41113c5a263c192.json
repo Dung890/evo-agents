@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fin",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fin",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:10+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "3fb18767f8c9dd02499ba27f3010a20ffa76391bb458b865804809a3a3da1443",
+  "size_bytes": 155104,
+  "path": "raw/http/26c9c099fd1e3443e79aab16b343528bf7ba800bf356d086d41113c5a263c192.html"
+}

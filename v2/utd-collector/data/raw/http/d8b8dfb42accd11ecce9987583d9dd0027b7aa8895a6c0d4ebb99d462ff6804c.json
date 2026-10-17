@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/hist",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/hist",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:13+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "fc781e76057684118b657a535bdc3da2c31526485ac1877527c95514b35d2e9e",
+  "size_bytes": 194739,
+  "path": "raw/http/d8b8dfb42accd11ecce9987583d9dd0027b7aa8895a6c0d4ebb99d462ff6804c.html"
+}

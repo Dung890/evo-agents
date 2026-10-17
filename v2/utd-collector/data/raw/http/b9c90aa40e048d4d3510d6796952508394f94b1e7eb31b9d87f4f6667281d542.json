@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/itss",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/itss",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:39+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "299198ee3b628ceada8c15343f8276595bd054b6d435c374f8d89350b72d7786",
+  "size_bytes": 158531,
+  "path": "raw/http/b9c90aa40e048d4d3510d6796952508394f94b1e7eb31b9d87f4f6667281d542.html"
+}

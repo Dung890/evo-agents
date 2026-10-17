@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:44:41+00:00",
+  "http_status": 200,
+  "content_type": "text/html",
+  "sha256": "43921906e86a1c00779675ff741e4a3c89eb7b4247218fb93b8cab10d6bdc49e",
+  "size_bytes": 185930,
+  "path": "raw/http/388402e2901bc374ec1aa109c742837b031155d1bf9ee8061da5e8dbbe273b79.html"
+}

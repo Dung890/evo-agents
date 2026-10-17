@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/psyc",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/psyc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:46+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b89524bd009e11b217c1293484ee4efd7fe5be33578a0b62672d089044b7b630",
+  "size_bytes": 190484,
+  "path": "raw/http/ea848be63ca5a1b7021d51fb864930b7333c515e70326d8464a4c532c9dbadb5.html"
+}

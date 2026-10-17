@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://dox.utdallas.edu/syl166037",
+  "final_url": "https://dox.utdallas.edu/syl166037",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:22+00:00",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "sha256": "896f1feafdaec6e366b80673632f29a85c04373fcc5a7c10a46d2f0d5bdfbb7f",
+  "size_bytes": 254169,
+  "path": "raw/http/432f38a661a051c2aa04fa594c827736e3a210dcd7422e0b37f800bc507e4338.pdf"
+}

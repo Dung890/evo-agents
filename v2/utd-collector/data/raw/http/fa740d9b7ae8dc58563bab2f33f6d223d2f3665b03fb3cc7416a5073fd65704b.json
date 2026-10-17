@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isec",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isec",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:34+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4bbde2bbef9f864bb74c1be54f2a18eb99f8c92f99b11d68186978e9f0b7f845",
+  "size_bytes": 116188,
+  "path": "raw/http/fa740d9b7ae8dc58563bab2f33f6d223d2f3665b03fb3cc7416a5073fd65704b.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/mis",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/mis",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:33+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "62497b45056b3af70106d6a5f61689e28a5ac007911a8eceba687fda4297ad8c",
+  "size_bytes": 231025,
+  "path": "raw/http/96b7573046d1a7671f197aeadead33ab4857450c6f33eeb797cd46d422705dbd.html"
+}

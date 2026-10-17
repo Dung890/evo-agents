@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crim",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crim",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:46+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4a24335fb80c20eb43b1b20fd5dd260ffdf9e1035e780855f28eb4b068f4305c",
+  "size_bytes": 137566,
+  "path": "raw/http/aa93296e0eb0ccc3176db66314cf9b6a9d6513ffcf1531bc20fd89bb8e8884a6.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gst",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gst",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:17+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5c8c567d0d5315cd109acc07e22e070535fa0dea0a851a7db3e2392576b4c4e2",
+  "size_bytes": 119613,
+  "path": "raw/http/c8c96d52f1ed331d5450df08b57338bfd2ccc045090d6898598d26da37b448c2.html"
+}

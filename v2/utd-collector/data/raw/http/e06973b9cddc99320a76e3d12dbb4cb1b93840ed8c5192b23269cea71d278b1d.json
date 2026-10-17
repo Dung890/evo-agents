@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/sgnl",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/sgnl",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:10+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "443965b411eaf31b8812f970eb91289d407c31ef13430e5dfaa8d5a39bd490d8",
+  "size_bytes": 116595,
+  "path": "raw/http/e06973b9cddc99320a76e3d12dbb4cb1b93840ed8c5192b23269cea71d278b1d.html"
+}

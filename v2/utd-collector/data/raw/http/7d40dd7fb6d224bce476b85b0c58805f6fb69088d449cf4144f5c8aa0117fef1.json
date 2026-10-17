@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ftec",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ftec",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:08+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "36a341364d18559dee0d7a5a2a09ce108f80907d948b3386bb609977b0b6138a",
+  "size_bytes": 174073,
+  "path": "raw/http/7d40dd7fb6d224bce476b85b0c58805f6fb69088d449cf4144f5c8aa0117fef1.html"
+}

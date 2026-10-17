@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/acn",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/acn",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:25+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "52ef62d91e14daa55a007f3c3d8a1c7e1a1bd814498cbbe78b897fb49a3db857",
+  "size_bytes": 219238,
+  "path": "raw/http/221dcf8d6c790f6585bf4078687edf6dabeeb1aeb0c281063fd10b322e4676ed.html"
+}

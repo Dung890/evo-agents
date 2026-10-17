@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cpsy",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cpsy",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:45+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ad2c9629b00860b305d047a4a9838374c9fe2fa5d3cec1400b7fccfd22829ce5",
+  "size_bytes": 113929,
+  "path": "raw/http/38b62a7087e20abc5e48b24e02116dfc7fb7b1a0b44c3d471bfc74f29b0f51b1.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arhm",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arhm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:20+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "2bcf5577335d4e05f0be1cced0168f18e44c645f9bf00650456de43d1217b6fe",
+  "size_bytes": 120096,
+  "path": "raw/http/65ba5fb5592ed5c9332de65d2f2627c606c0acb3e2abd8d93665b5e2bfb0dfd5.html"
+}

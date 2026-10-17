@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/psci",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/psci",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:46+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "21b8d853a6516bb779efa6344ade6c651bfae94f6ced3e623b51a53f2d70b24a",
+  "size_bytes": 197442,
+  "path": "raw/http/180254a9d643b1e22b86697eebfec945df86c7949f9f6a794d07eea3915f8d72.html"
+}

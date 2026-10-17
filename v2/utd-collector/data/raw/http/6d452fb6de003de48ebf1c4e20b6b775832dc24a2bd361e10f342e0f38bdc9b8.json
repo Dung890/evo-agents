@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/math",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/math",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:29+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "81578df12192b400e5b41a7632a0f4357d168385d795477ca673dc4f3a365265",
+  "size_bytes": 204116,
+  "path": "raw/http/6d452fb6de003de48ebf1c4e20b6b775832dc24a2bd361e10f342e0f38bdc9b8.html"
+}

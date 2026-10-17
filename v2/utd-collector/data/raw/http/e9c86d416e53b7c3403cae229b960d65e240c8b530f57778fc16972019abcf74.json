@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bims",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bims",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:32+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5b634c2d88db2989c6ef46b476c634407084df109d6888a2b3e70d64d5c881a5",
+  "size_bytes": 148346,
+  "path": "raw/http/e9c86d416e53b7c3403cae229b960d65e240c8b530f57778fc16972019abcf74.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lit",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lit",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:42+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "3155112517c78c3c6f3a5c2c49e7a67a0387dfac0476777e5d36a44007888f51",
+  "size_bytes": 130373,
+  "path": "raw/http/88df76e852d5561ae9354f025418e3cc0c864eead7f868cc6071945bbc3f33d2.html"
+}

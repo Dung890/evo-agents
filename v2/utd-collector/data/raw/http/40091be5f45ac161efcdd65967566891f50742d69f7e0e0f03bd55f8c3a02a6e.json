@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ce",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ce",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:38+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e031855d7d4a9bf5b04cac745dd6606ae7daa72ac6ddb76895e6f145026906b4",
+  "size_bytes": 150947,
+  "path": "raw/http/40091be5f45ac161efcdd65967566891f50742d69f7e0e0f03bd55f8c3a02a6e.html"
+}

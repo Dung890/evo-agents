@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/angm",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/angm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:30+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "f65944b9784c0e74333b31c65ac625803efbb0665dc62953546c543604719150",
+  "size_bytes": 177205,
+  "path": "raw/http/a823c2d00608aeeef1d8ac7b6f568c755e4eaaf6ae868dd7c2397670e3c39aa7.html"
+}

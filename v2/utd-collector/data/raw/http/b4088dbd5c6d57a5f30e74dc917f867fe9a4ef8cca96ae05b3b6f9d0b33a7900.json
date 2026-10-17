@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/econ",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/econ",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:54+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "225bb572e505a2ac65fa8dbc6d567cef6a9a5830425abac73b9c631c96d0a07d",
+  "size_bytes": 149796,
+  "path": "raw/http/b4088dbd5c6d57a5f30e74dc917f867fe9a4ef8cca96ae05b3b6f9d0b33a7900.html"
+}

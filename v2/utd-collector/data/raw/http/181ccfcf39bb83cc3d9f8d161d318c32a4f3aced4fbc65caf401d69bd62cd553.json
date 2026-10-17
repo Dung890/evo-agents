@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ecsc",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ecsc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:48+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b34e9cd544f9bc14a967400d2831e4b314a3c917bf4a0854deff79ab9620e3f9",
+  "size_bytes": 164075,
+  "path": "raw/http/181ccfcf39bb83cc3d9f8d161d318c32a4f3aced4fbc65caf401d69bd62cd553.html"
+}

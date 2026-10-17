@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/math",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/math",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:47+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "f523774222684d3dddcfcd832e0382f65644185d2ff217c4f9c1a92f5bba046e",
+  "size_bytes": 161049,
+  "path": "raw/http/1290a63beae23e5b00247a8e5461a07dcade79d9b29a9c2af802e9255c0afc26.html"
+}

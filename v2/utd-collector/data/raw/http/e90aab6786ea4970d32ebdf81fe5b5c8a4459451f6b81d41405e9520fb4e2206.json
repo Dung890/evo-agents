@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geos",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geos",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:15+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "1380f3d4a896b9edd3cc85ccaa992af8aee02328e49bb9910e744ad89595bc15",
+  "size_bytes": 154268,
+  "path": "raw/http/e90aab6786ea4970d32ebdf81fe5b5c8a4459451f6b81d41405e9520fb4e2206.html"
+}

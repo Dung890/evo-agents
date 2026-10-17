@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/urdu",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/urdu",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:20+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "9aaa52214519aa28629f1e7ca3cacac99df17f540ec0587f989a72e6cfbc0cf9",
+  "size_bytes": 114201,
+  "path": "raw/http/f76362c78c40406baeabc761a0af972521aba45a02d5317e23bc3b00a1d82e20.html"
+}

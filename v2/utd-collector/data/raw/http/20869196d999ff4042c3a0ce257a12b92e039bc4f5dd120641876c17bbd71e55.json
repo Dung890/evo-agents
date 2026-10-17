@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/kore",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/kore",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:39+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "c72793992d73eda1ce6835f63a516d6260d5dc2e4b88d4ffe6940461e0328eb2",
+  "size_bytes": 117391,
+  "path": "raw/http/20869196d999ff4042c3a0ce257a12b92e039bc4f5dd120641876c17bbd71e55.html"
+}

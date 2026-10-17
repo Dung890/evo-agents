@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isns",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isns",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:34+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d1f48fc8e926b1ac68c48f0c1f34f4ebf09df9b2bb44933ccb5de5979e2d7123",
+  "size_bytes": 118264,
+  "path": "raw/http/8fe53cc2c419c4b31dedc5ee50bb6c03c6d3c7f7ecea8fdc206979ef2abbeaff.html"
+}

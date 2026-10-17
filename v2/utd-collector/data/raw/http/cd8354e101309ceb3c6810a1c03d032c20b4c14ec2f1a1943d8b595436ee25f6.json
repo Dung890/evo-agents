@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ee",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ee",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:57+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "ed5ba26033f839a74e5c796af036a7a4a07f0e8095f3ac181db6529ceb300fda",
+  "size_bytes": 155359,
+  "path": "raw/http/cd8354e101309ceb3c6810a1c03d032c20b4c14ec2f1a1943d8b595436ee25f6.html"
+}

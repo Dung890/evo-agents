@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/phil",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/phil",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "e93e0920153af465b7eefcf3332a386c68bfe89e41cdc8cc91dedf010f687bc2",
+  "size_bytes": 177580,
+  "path": "raw/http/db45e66bb39469e8b435b24aa5b3736a876726a6b0362fdc15ab968b3d72ef0b.html"
+}

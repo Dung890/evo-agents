@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/pa",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/pa",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b9dfeee46fa71603674057c96d2ae1d3d13874c10a89c564b4a6a26e79fcbfaa",
+  "size_bytes": 195926,
+  "path": "raw/http/f827a926ea6afbc075b3d8a7c059105bdeb01c32ed2ab3178177819105f19679.html"
+}

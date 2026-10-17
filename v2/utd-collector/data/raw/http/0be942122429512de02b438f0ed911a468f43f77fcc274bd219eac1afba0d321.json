@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mech",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mech",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:47+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b5122a1c3ad91108dd05feaf9a22f62290bc8fa2b1fab837d1c7680e52d3f725",
+  "size_bytes": 156098,
+  "path": "raw/http/0be942122429512de02b438f0ed911a468f43f77fcc274bd219eac1afba0d321.html"
+}

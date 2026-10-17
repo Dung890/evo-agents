@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/sysm",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/sysm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d42878e24c400dcb3f4fdb7464b9db5121f316e624850685800f1d78410e5d8a",
+  "size_bytes": 204441,
+  "path": "raw/http/84b97595fd56adff1975b01baff1e992f1a72904db7d999506e5eaa58af27f96.html"
+}

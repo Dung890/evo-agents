@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crwt",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crwt",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:45+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "60e7017801021027f4cdd310f1b36c3bc1ce9739b16aa98eba9aef92a97f1449",
+  "size_bytes": 121293,
+  "path": "raw/http/42fb56a382e8214e5e052578b36d618ad18d9a8c6652d0d118f9fa370cdff17f.html"
+}

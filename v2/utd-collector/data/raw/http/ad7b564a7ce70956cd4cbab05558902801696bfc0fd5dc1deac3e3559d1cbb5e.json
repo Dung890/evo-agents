@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mkt",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mkt",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:50+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "c7950f7e36ed9bba8a616303e39128139c6108b0c38405d4050ca0c104666c07",
+  "size_bytes": 140486,
+  "path": "raw/http/ad7b564a7ce70956cd4cbab05558902801696bfc0fd5dc1deac3e3559d1cbb5e.html"
+}

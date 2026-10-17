@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ce",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ce",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:37+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "98c2617c35206b50ce1e3cbba8bfb98a2da17297a0a8f22dc89c4ffddcfdea93",
+  "size_bytes": 187303,
+  "path": "raw/http/ce7a4c37ac2129568fe634494ab857efdc77e1f44be2bfbbf97416b7057edd5a.html"
+}

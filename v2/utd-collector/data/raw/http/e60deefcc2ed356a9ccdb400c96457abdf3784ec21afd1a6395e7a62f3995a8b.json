@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/syse",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/syse",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:17+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "bfac42641bd294f6df327093d97d5994387183639e5a31d5d2b1807aaed761a0",
+  "size_bytes": 123874,
+  "path": "raw/http/e60deefcc2ed356a9ccdb400c96457abdf3784ec21afd1a6395e7a62f3995a8b.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acts",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acts",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:47:55+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "423a50cf90c1185148e0f7016dc87e531d08d0947ca80b7f22548d2d917b1662",
+  "size_bytes": 123643,
+  "path": "raw/http/a4aa3744eb55807906dec13f8b39570fd34e3a2dc73dd24122ff69d4bce6bb50.html"
+}

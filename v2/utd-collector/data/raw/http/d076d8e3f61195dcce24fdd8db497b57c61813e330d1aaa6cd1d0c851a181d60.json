@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/gisc",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/gisc",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:08+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "8ec2ef3699eb8eb2da4fdb711f66d1f2638d85ccc79d33b58c8b1a9a87732633",
+  "size_bytes": 201219,
+  "path": "raw/http/d076d8e3f61195dcce24fdd8db497b57c61813e330d1aaa6cd1d0c851a181d60.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/msen",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/msen",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:50+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4411995902d3ef21f07c580adeab99aae5cc689877bb139cd3f4106008f73302",
+  "size_bytes": 142216,
+  "path": "raw/http/2d6b9fc50cc99ce0725a8e91ecd7171f07aa1dfd80d1129cd00d16c186f6bb68.html"
+}

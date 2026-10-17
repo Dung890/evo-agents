@@ -1,0 +1,1474 @@
+[
+  {
+    "prefix": "ACCT",
+    "prefix_name": "Accounting",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acct",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ACTS",
+    "prefix_name": "Actuarial Science",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acts",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "AHST",
+    "prefix_name": "Art History",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahst",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "AHTC",
+    "prefix_name": "Arts, Humanities, and Technology",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahtc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "AMS",
+    "prefix_name": "American Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ams",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ANGM",
+    "prefix_name": "Animation and Games",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/angm",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ARAB",
+    "prefix_name": "Arabic",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arab",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ARHM",
+    "prefix_name": "Arts and Humanities",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arhm",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ARTS",
+    "prefix_name": "Art",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arts",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ATCM",
+    "prefix_name": "Arts Technology Communication and Media",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/atcm",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BA",
+    "prefix_name": "Business Administration",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ba",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BBSU",
+    "prefix_name": "Behavioral and Brain Sciences Undergraduate",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bbsu",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BCOM",
+    "prefix_name": "Business Communication",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bcom",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BIMS",
+    "prefix_name": "Biomedical Sciences",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bims",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BIOL",
+    "prefix_name": "Biology",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/biol",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BIS",
+    "prefix_name": "Interdisciplinary Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bis",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BLAW",
+    "prefix_name": "Business Law",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/blaw",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BMEN",
+    "prefix_name": "Biomedical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bmen",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BPS",
+    "prefix_name": "Business Policy and Strategy",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bps",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "BUAN",
+    "prefix_name": "Business Analytics",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/buan",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CE",
+    "prefix_name": "Computer Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ce",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CGS",
+    "prefix_name": "Cognitive Science",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cgs",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CHEM",
+    "prefix_name": "Chemistry",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chem",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CHIN",
+    "prefix_name": "Chinese",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chin",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CLDP",
+    "prefix_name": "Child Learning and Development",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cldp",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "COMM",
+    "prefix_name": "Communication Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/comm",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CPSY",
+    "prefix_name": "Clinical Psychological Science",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cpsy",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CRIM",
+    "prefix_name": "Criminology",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crim",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CRWT",
+    "prefix_name": "Creative Writing",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crwt",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CS",
+    "prefix_name": "Computer Science",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cs",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "CYBR",
+    "prefix_name": "Cybersecurity and Risk Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cybr",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "DANC",
+    "prefix_name": "Dance",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/danc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ECON",
+    "prefix_name": "Economics",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/econ",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ECS",
+    "prefix_name": "Engineering and Computer Science",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecs",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ECSC",
+    "prefix_name": "Engineering and Computer Science COOP",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecsc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ED",
+    "prefix_name": "Education",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ed",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "EE",
+    "prefix_name": "Electrical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ee",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ENGR",
+    "prefix_name": "Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engr",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ENGY",
+    "prefix_name": "Energy Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engy",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ENTP",
+    "prefix_name": "Innovation and Entrepreneurship",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/entp",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ENVR",
+    "prefix_name": "Environmental Sciences",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/envr",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "EPCS",
+    "prefix_name": "Engineering Projects in Community Service",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epcs",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "EPPS",
+    "prefix_name": "Economic, Political and Policy Sciences",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epps",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "FILM",
+    "prefix_name": "Film Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/film",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "FIN",
+    "prefix_name": "Finance",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fin",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "FREN",
+    "prefix_name": "French",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fren",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GEOG",
+    "prefix_name": "Geography",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geog",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GEOS",
+    "prefix_name": "Geosciences",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geos",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GERM",
+    "prefix_name": "German",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/germ",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GISC",
+    "prefix_name": "Geospatial Information Sciences",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gisc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GOVT",
+    "prefix_name": "Government and Politics",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/govt",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "GST",
+    "prefix_name": "Gender Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gst",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HIND",
+    "prefix_name": "Hindu",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hind",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HIST",
+    "prefix_name": "History",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hist",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HLTH",
+    "prefix_name": "Health Care Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hlth",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HMGT",
+    "prefix_name": "Healthcare Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hmgt",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HONS",
+    "prefix_name": "Honors College",
+    "school": "Honors College",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hons",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "HUMA",
+    "prefix_name": "Humanities",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/huma",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "IMS",
+    "prefix_name": "International Management Studies",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ims",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "IPEC",
+    "prefix_name": "International Political Economy",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ipec",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ISAE",
+    "prefix_name": "Interdisciplinary Studies-Arts Technology and Emerging Communication",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isae",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ISAH",
+    "prefix_name": "Interdisciplinary Studies-Arts and Humanities",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isah",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ISEC",
+    "prefix_name": "Interdisciplinary Studies-EE and CS",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isec",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ISIS",
+    "prefix_name": "Interdisciplinary Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isis",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ISNS",
+    "prefix_name": "Interdisciplinary Studies-Natural Science and Mathematics",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isns",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ITSS",
+    "prefix_name": "Information Technology and Systems",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/itss",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "JAPN",
+    "prefix_name": "Japanese",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/japn",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "KORE",
+    "prefix_name": "Korean",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/kore",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "LANG",
+    "prefix_name": "Language",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lang",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "LATS",
+    "prefix_name": "Latin American Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lats",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "LIT",
+    "prefix_name": "Literature",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lit",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MATH",
+    "prefix_name": "Mathematical Science",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/math",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MECH",
+    "prefix_name": "Mechanical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mech",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MECO",
+    "prefix_name": "Managerial Economics",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/meco",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MILS",
+    "prefix_name": "Military Science",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mils",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MKT",
+    "prefix_name": "Marketing Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mkt",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MSEN",
+    "prefix_name": "Materials Sciences and Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/msen",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "MUSI",
+    "prefix_name": "Music",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/musi",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "NATS",
+    "prefix_name": "Natural Sciences",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nats",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "NSC",
+    "prefix_name": "Neuroscience",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nsc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "OBHR",
+    "prefix_name": "Organizational Behavior/Human Resources",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/obhr",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "OPRE",
+    "prefix_name": "Operations Research",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/opre",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PA",
+    "prefix_name": "Public Affairs Management",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/pa",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PHIL",
+    "prefix_name": "Philosophy",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phil",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PHIN",
+    "prefix_name": "Physical Instruction",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phin",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PHYS",
+    "prefix_name": "Physics",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phys",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PPOL",
+    "prefix_name": "Public Policy",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ppol",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PSCI",
+    "prefix_name": "Political Science",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psci",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "PSY",
+    "prefix_name": "Psychology",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psy",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "REAL",
+    "prefix_name": "Real Estate",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/real",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "RELS",
+    "prefix_name": "Religious Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rels",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "RHET",
+    "prefix_name": "Rhetoric",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rhet",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "RMIS",
+    "prefix_name": "Risk Management and Insurance",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rmis",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SE",
+    "prefix_name": "Software Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/se",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SGNL",
+    "prefix_name": "American Sign Language",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/sgnl",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SOC",
+    "prefix_name": "Sociology",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/soc",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SPAN",
+    "prefix_name": "Spanish",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/span",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SPAU",
+    "prefix_name": "Speech-Language Pathology & Audiology",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/spau",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "STAT",
+    "prefix_name": "Statistics",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/stat",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "SYSE",
+    "prefix_name": "Systems Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/syse",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "THEA",
+    "prefix_name": "Theatre",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/thea",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "UNIV",
+    "prefix_name": "University Course",
+    "school": "Undergraduate Studies",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/univ",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "URDU",
+    "prefix_name": "Urdu",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/urdu",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "VIET",
+    "prefix_name": "Vietnamese",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/viet",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "VPAS",
+    "prefix_name": "Visual and Performing Arts",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/undergraduate/courses/vpas",
+    "catalog_year": 2026,
+    "level": "undergraduate"
+  },
+  {
+    "prefix": "ACCT",
+    "prefix_name": "Accounting",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/acct",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ACN",
+    "prefix_name": "Applied Cognition and Neuroscience",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/acn",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ACTS",
+    "prefix_name": "Actuarial Science",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/acts",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "AHST",
+    "prefix_name": "Art History",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ahst",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "AHTC",
+    "prefix_name": "Arts, Humanities, and Technology",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ahtc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ANGM",
+    "prefix_name": "Animation and Games",
+    "school": "",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/angm",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ARHM",
+    "prefix_name": "Arts and Humanities",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/arhm",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ATCM",
+    "prefix_name": "Arts Technology Communication and Media",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/atcm",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "AUD",
+    "prefix_name": "Audiology",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/aud",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "BIOL",
+    "prefix_name": "Biology",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/biol",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "BMEN",
+    "prefix_name": "Biomedical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/bmen",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "BPS",
+    "prefix_name": "Business Policy and Strategy",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/bps",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "BUAN",
+    "prefix_name": "Business Analytics",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/buan",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "CE",
+    "prefix_name": "Computer Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ce",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "CHEM",
+    "prefix_name": "Chemistry",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/chem",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "COMD",
+    "prefix_name": "Communication Disorders",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/comd",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "CPSY",
+    "prefix_name": "Clinical Psychological Science",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/cpsy",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "CRIM",
+    "prefix_name": "Criminology",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/crim",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "CS",
+    "prefix_name": "Computer Science",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/cs",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "DBUA",
+    "prefix_name": "Doctor of Business Administration",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/dbua",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ECON",
+    "prefix_name": "Economics",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/econ",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ECSC",
+    "prefix_name": "Engineering and Computer Science COOP",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ecsc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ED",
+    "prefix_name": "Education",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ed",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEBM",
+    "prefix_name": "Electrical Engineering: Biomedical Applications of Electrical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eebm",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EECS",
+    "prefix_name": "Electrical Engineering: Control Systems",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eecs",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EECT",
+    "prefix_name": "Electrical Engineering: Circuits and Systems",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eect",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEDG",
+    "prefix_name": "Electrical Engineering: Digital Systems",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eedg",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEGR",
+    "prefix_name": "Electrical Engineering - Graduate",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eegr",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEMF",
+    "prefix_name": "Electrical Engineering: Solid State Devices & Micro Sys Fabric",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eemf",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEOP",
+    "prefix_name": "Electrical Engineering: Optical Devices, Materials & Systems",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eeop",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EEPE",
+    "prefix_name": "Electrical Engineering: Power Electronics and Energy Systems",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eepe",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EERF",
+    "prefix_name": "Electrical Engineering: RF & Microwave Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eerf",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EESC",
+    "prefix_name": "Electrical Engineering: Signal Processing & Communications",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/eesc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ENGY",
+    "prefix_name": "Energy Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/engy",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "ENTP",
+    "prefix_name": "Innovation and Entrepreneurship",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/entp",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "EPPS",
+    "prefix_name": "Economic, Political and Policy Sciences",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/epps",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "FIN",
+    "prefix_name": "Finance",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/fin",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "FTEC",
+    "prefix_name": "Financial Technology and Analytics",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ftec",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "GEOS",
+    "prefix_name": "Geosciences",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/geos",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "GISC",
+    "prefix_name": "Geospatial Information Sciences",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/gisc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HCS",
+    "prefix_name": "Behavioral and Brain Sciences",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/hcs",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HDCD",
+    "prefix_name": "Human Development and Early Childhood Disorders",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/hdcd",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HIST",
+    "prefix_name": "History",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/hist",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HMGT",
+    "prefix_name": "Healthcare Administration",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/hmgt",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HUAS",
+    "prefix_name": "Humanities - Aesthetic Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/huas",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HUHI",
+    "prefix_name": "Humanities - History of Ideas",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/huhi",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "HUMA",
+    "prefix_name": "Humanities",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/huma",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "IDEA",
+    "prefix_name": "History of Ideas",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/idea",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "IMS",
+    "prefix_name": "International Management Studies",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ims",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "IPEC",
+    "prefix_name": "International Political Economy",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ipec",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "LATS",
+    "prefix_name": "Latin American Studies",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/lats",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "LIT",
+    "prefix_name": "Literature",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/lit",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MAIS",
+    "prefix_name": "Master-Interdisciplinary Studies",
+    "school": "School of Interdisciplinary Studies",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mais",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MAS",
+    "prefix_name": "Management and Administrative Sciences",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mas",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MATH",
+    "prefix_name": "Mathematical Science",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/math",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MECH",
+    "prefix_name": "Mechanical Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mech",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MECO",
+    "prefix_name": "Managerial Economics",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/meco",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MIS",
+    "prefix_name": "Management Information Systems",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mis",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MKT",
+    "prefix_name": "Marketing Management",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mkt",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MSEN",
+    "prefix_name": "Materials Sciences and Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/msen",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "MTHE",
+    "prefix_name": "Math Education",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/mthe",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "NATS",
+    "prefix_name": "Natural Sciences",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/nats",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "OB",
+    "prefix_name": "Organizational Behavior",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/ob",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "OPRE",
+    "prefix_name": "Operations Research",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/opre",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PA",
+    "prefix_name": "Public Affairs/Administration",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/pa",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PHIL",
+    "prefix_name": "Philosophy",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/phil",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PHYS",
+    "prefix_name": "Physics",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/phys",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PPPE",
+    "prefix_name": "Public Policy and Political Economy",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/pppe",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PSCI",
+    "prefix_name": "Political Science",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/psci",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "PSYC",
+    "prefix_name": "Psychological Sciences",
+    "school": "School of Behavioral and Brain Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/psyc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "REAL",
+    "prefix_name": "Real Estate",
+    "school": "Naveen Jindal School of Management",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/real",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SCI",
+    "prefix_name": "Science",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/sci",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SE",
+    "prefix_name": "Software Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/se",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SMED",
+    "prefix_name": "Science Math Education",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/smed",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SOC",
+    "prefix_name": "Sociology",
+    "school": "School of Economic, Political and Policy Sciences",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/soc",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "STAT",
+    "prefix_name": "Statistics",
+    "school": "School of Natural Sciences and Mathematics",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/stat",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SYSE",
+    "prefix_name": "Systems Engineering",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/syse",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "SYSM",
+    "prefix_name": "Systems Engineering and Management",
+    "school": "Erik Jonsson School of Engineering and Computer Science",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/sysm",
+    "catalog_year": 2026,
+    "level": "graduate"
+  },
+  {
+    "prefix": "VPAS",
+    "prefix_name": "Visual and Performing Arts",
+    "school": "Harry W. Bass Jr. School of Arts, Humanities, and Technology",
+    "url": "https://catalog.utdallas.edu/2026/graduate/courses/vpas",
+    "catalog_year": 2026,
+    "level": "graduate"
+  }
+]

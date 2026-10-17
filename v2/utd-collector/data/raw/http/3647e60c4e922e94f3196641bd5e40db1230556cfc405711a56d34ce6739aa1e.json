@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/span",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/span",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:14+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "9eeb49b7cd13a1c5634a74bf9604a53cef3b119285d469ce3725c40b4341e826",
+  "size_bytes": 125385,
+  "path": "raw/http/3647e60c4e922e94f3196641bd5e40db1230556cfc405711a56d34ce6739aa1e.html"
+}

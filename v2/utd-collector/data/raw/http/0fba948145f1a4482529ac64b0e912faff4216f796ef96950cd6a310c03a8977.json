@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hmgt",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hmgt",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:22+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "751a0eb2226bcc072e0ad2eb01748fd48a0c0baab00eb7e7ff68b40949ca2c49",
+  "size_bytes": 129959,
+  "path": "raw/http/0fba948145f1a4482529ac64b0e912faff4216f796ef96950cd6a310c03a8977.html"
+}

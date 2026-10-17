@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/huma",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/huma",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:18+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "0e112f4d17594e1261f0c41ba04ba32a68422c20175fc34774ee2f9b93624cbf",
+  "size_bytes": 172299,
+  "path": "raw/http/4040dc43f7552b0fe26d3e48f4c1f86d43a3a48e8e070b0948d56652786bd44e.html"
+}

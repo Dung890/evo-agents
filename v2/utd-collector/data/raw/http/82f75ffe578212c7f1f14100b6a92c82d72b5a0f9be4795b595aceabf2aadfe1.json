@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rels",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rels",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:07+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "38ef1e9c92ecf4a6bb3f9415e741e7d1abedc366f5a6630566188b3d407bb8bc",
+  "size_bytes": 127580,
+  "path": "raw/http/82f75ffe578212c7f1f14100b6a92c82d72b5a0f9be4795b595aceabf2aadfe1.html"
+}

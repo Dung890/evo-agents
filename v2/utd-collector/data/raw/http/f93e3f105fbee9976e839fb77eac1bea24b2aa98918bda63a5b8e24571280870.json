@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ob",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ob",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:38+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "f9658f85d1204c41dd89cfd1ca6243d4582ba6c8ba03eff56174e2a026e5265f",
+  "size_bytes": 216524,
+  "path": "raw/http/f93e3f105fbee9976e839fb77eac1bea24b2aa98918bda63a5b8e24571280870.html"
+}

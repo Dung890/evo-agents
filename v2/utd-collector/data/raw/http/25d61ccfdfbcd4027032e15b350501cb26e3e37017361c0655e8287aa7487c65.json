@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/atcm",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/atcm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:28+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "23d6e4759a06aca76a08ee486fb3b53eaa127de82e84ed1944955ba0d6c44ba6",
+  "size_bytes": 171096,
+  "path": "raw/http/25d61ccfdfbcd4027032e15b350501cb26e3e37017361c0655e8287aa7487c65.html"
+}

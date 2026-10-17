@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/phys",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/phys",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d68100f2503d881029510c7c62249cae7841a73a01e4d0abbb4a7ed1765629e4",
+  "size_bytes": 197925,
+  "path": "raw/http/0fdfe863617e97f2ee4969fe1b2ea4ed1772d5d78647cade1eb5f0f10d7b6042.html"
+}

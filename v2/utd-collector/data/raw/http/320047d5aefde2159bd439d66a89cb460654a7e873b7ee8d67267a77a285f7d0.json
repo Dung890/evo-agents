@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/viet",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/viet",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:20+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "bb3498b5da73f1d23032bb85109b09763c82fd3467481963d118bc08604dbed4",
+  "size_bytes": 117445,
+  "path": "raw/http/320047d5aefde2159bd439d66a89cb460654a7e873b7ee8d67267a77a285f7d0.html"
+}

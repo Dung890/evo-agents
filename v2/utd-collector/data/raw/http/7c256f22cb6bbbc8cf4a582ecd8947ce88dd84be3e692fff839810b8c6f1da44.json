@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/comm",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/comm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:40+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "f6615af2cb81e31746736d8e4fbbf127f66c7afc15b62a9b3e27ebaf15dddb16",
+  "size_bytes": 140030,
+  "path": "raw/http/7c256f22cb6bbbc8cf4a582ecd8947ce88dd84be3e692fff839810b8c6f1da44.html"
+}

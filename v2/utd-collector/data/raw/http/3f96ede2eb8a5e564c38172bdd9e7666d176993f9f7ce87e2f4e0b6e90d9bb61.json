@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/ahst",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/ahst",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:28+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "990df435ac98d7e8bc6ac3920749249f7b5c07a72eb55574e9617597eee16d57",
+  "size_bytes": 175013,
+  "path": "raw/http/3f96ede2eb8a5e564c38172bdd9e7666d176993f9f7ce87e2f4e0b6e90d9bb61.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/mech",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/mech",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:29+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "64bc9f3bb0fe972984132e7c147f91099687d897299c6816ef1a20d6ddcf1737",
+  "size_bytes": 228661,
+  "path": "raw/http/60320cb928bcbd1d729e4f317ad1f6622731db4b9a76614f26a0b106a979aecd.html"
+}

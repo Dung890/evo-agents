@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isah",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isah",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:49:31+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "7e182957505cc47eef4a2d1e98451b58862fd008a9c04803c2f34b8345371f17",
+  "size_bytes": 115518,
+  "path": "raw/http/52006d6e268c3022293f939e155c18cb65811cdc738741b80ac6994bfdba375b.html"
+}

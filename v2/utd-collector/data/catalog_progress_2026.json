@@ -1,0 +1,1295 @@
+{
+  "updated_at": "2026-10-17T21:54:34+00:00",
+  "requested_pages": 184,
+  "finished_pages": 184,
+  "pages": [
+    {
+      "level": "graduate",
+      "prefix": "ACCT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/acct",
+      "status": "ok",
+      "course_count": 57
+    },
+    {
+      "level": "graduate",
+      "prefix": "ACN",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/acn",
+      "status": "ok",
+      "course_count": 62
+    },
+    {
+      "level": "graduate",
+      "prefix": "ACTS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/acts",
+      "status": "ok",
+      "course_count": 9
+    },
+    {
+      "level": "graduate",
+      "prefix": "AHST",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ahst",
+      "status": "ok",
+      "course_count": 26
+    },
+    {
+      "level": "graduate",
+      "prefix": "AHTC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ahtc",
+      "status": "empty",
+      "course_count": 0
+    },
+    {
+      "level": "graduate",
+      "prefix": "ANGM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/angm",
+      "status": "ok",
+      "course_count": 25
+    },
+    {
+      "level": "graduate",
+      "prefix": "ARHM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/arhm",
+      "status": "ok",
+      "course_count": 1
+    },
+    {
+      "level": "graduate",
+      "prefix": "ATCM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/atcm",
+      "status": "ok",
+      "course_count": 77
+    },
+    {
+      "level": "graduate",
+      "prefix": "AUD",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/aud",
+      "status": "ok",
+      "course_count": 41
+    },
+    {
+      "level": "graduate",
+      "prefix": "BIOL",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/biol",
+      "status": "ok",
+      "course_count": 81
+    },
+    {
+      "level": "graduate",
+      "prefix": "BMEN",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/bmen",
+      "status": "ok",
+      "course_count": 71
+    },
+    {
+      "level": "graduate",
+      "prefix": "BPS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/bps",
+      "status": "ok",
+      "course_count": 18
+    },
+    {
+      "level": "graduate",
+      "prefix": "BUAN",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/buan",
+      "status": "ok",
+      "course_count": 44
+    },
+    {
+      "level": "graduate",
+      "prefix": "CE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ce",
+      "status": "ok",
+      "course_count": 29
+    },
+    {
+      "level": "graduate",
+      "prefix": "CHEM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/chem",
+      "status": "ok",
+      "course_count": 31
+    },
+    {
+      "level": "graduate",
+      "prefix": "COMD",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/comd",
+      "status": "ok",
+      "course_count": 62
+    },
+    {
+      "level": "graduate",
+      "prefix": "CPSY",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/cpsy",
+      "status": "ok",
+      "course_count": 17
+    },
+    {
+      "level": "graduate",
+      "prefix": "CRIM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/crim",
+      "status": "ok",
+      "course_count": 33
+    },
+    {
+      "level": "graduate",
+      "prefix": "CS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/cs",
+      "status": "ok",
+      "course_count": 79
+    },
+    {
+      "level": "graduate",
+      "prefix": "DBUA",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/dbua",
+      "status": "ok",
+      "course_count": 17
+    },
+    {
+      "level": "graduate",
+      "prefix": "ECON",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/econ",
+      "status": "ok",
+      "course_count": 48
+    },
+    {
+      "level": "graduate",
+      "prefix": "ECSC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ecsc",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "graduate",
+      "prefix": "ED",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ed",
+      "status": "ok",
+      "course_count": 7
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEBM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eebm",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "graduate",
+      "prefix": "EECS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eecs",
+      "status": "ok",
+      "course_count": 7
+    },
+    {
+      "level": "graduate",
+      "prefix": "EECT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eect",
+      "status": "ok",
+      "course_count": 8
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEDG",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eedg",
+      "status": "ok",
+      "course_count": 15
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEGR",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eegr",
+      "status": "ok",
+      "course_count": 13
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEMF",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eemf",
+      "status": "ok",
+      "course_count": 14
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEOP",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eeop",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "graduate",
+      "prefix": "EEPE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eepe",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "graduate",
+      "prefix": "EERF",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eerf",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "graduate",
+      "prefix": "EESC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/eesc",
+      "status": "ok",
+      "course_count": 24
+    },
+    {
+      "level": "graduate",
+      "prefix": "ENGY",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/engy",
+      "status": "ok",
+      "course_count": 13
+    },
+    {
+      "level": "graduate",
+      "prefix": "ENTP",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/entp",
+      "status": "ok",
+      "course_count": 36
+    },
+    {
+      "level": "graduate",
+      "prefix": "EPPS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/epps",
+      "status": "ok",
+      "course_count": 28
+    },
+    {
+      "level": "graduate",
+      "prefix": "FIN",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/fin",
+      "status": "ok",
+      "course_count": 43
+    },
+    {
+      "level": "graduate",
+      "prefix": "FTEC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ftec",
+      "status": "ok",
+      "course_count": 23
+    },
+    {
+      "level": "graduate",
+      "prefix": "GEOS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/geos",
+      "status": "ok",
+      "course_count": 58
+    },
+    {
+      "level": "graduate",
+      "prefix": "GISC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/gisc",
+      "status": "ok",
+      "course_count": 45
+    },
+    {
+      "level": "graduate",
+      "prefix": "HCS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/hcs",
+      "status": "ok",
+      "course_count": 87
+    },
+    {
+      "level": "graduate",
+      "prefix": "HDCD",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/hdcd",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "graduate",
+      "prefix": "HIST",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/hist",
+      "status": "ok",
+      "course_count": 66
+    },
+    {
+      "level": "graduate",
+      "prefix": "HMGT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/hmgt",
+      "status": "ok",
+      "course_count": 46
+    },
+    {
+      "level": "graduate",
+      "prefix": "HUAS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/huas",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "graduate",
+      "prefix": "HUHI",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/huhi",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "graduate",
+      "prefix": "HUMA",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/huma",
+      "status": "ok",
+      "course_count": 18
+    },
+    {
+      "level": "graduate",
+      "prefix": "IDEA",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/idea",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "graduate",
+      "prefix": "IMS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ims",
+      "status": "ok",
+      "course_count": 49
+    },
+    {
+      "level": "graduate",
+      "prefix": "IPEC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ipec",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "graduate",
+      "prefix": "LATS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/lats",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "graduate",
+      "prefix": "LIT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/lit",
+      "status": "ok",
+      "course_count": 34
+    },
+    {
+      "level": "graduate",
+      "prefix": "MAIS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mais",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "graduate",
+      "prefix": "MAS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mas",
+      "status": "ok",
+      "course_count": 46
+    },
+    {
+      "level": "graduate",
+      "prefix": "MATH",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/math",
+      "status": "ok",
+      "course_count": 63
+    },
+    {
+      "level": "graduate",
+      "prefix": "MECH",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mech",
+      "status": "ok",
+      "course_count": 79
+    },
+    {
+      "level": "graduate",
+      "prefix": "MECO",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/meco",
+      "status": "ok",
+      "course_count": 18
+    },
+    {
+      "level": "graduate",
+      "prefix": "MIS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mis",
+      "status": "ok",
+      "course_count": 65
+    },
+    {
+      "level": "graduate",
+      "prefix": "MKT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mkt",
+      "status": "ok",
+      "course_count": 38
+    },
+    {
+      "level": "graduate",
+      "prefix": "MSEN",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/msen",
+      "status": "ok",
+      "course_count": 41
+    },
+    {
+      "level": "graduate",
+      "prefix": "MTHE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/mthe",
+      "status": "ok",
+      "course_count": 12
+    },
+    {
+      "level": "graduate",
+      "prefix": "NATS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/nats",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "graduate",
+      "prefix": "OB",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/ob",
+      "status": "ok",
+      "course_count": 63
+    },
+    {
+      "level": "graduate",
+      "prefix": "OPRE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/opre",
+      "status": "ok",
+      "course_count": 73
+    },
+    {
+      "level": "graduate",
+      "prefix": "PA",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/pa",
+      "status": "ok",
+      "course_count": 52
+    },
+    {
+      "level": "graduate",
+      "prefix": "PHIL",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/phil",
+      "status": "ok",
+      "course_count": 28
+    },
+    {
+      "level": "graduate",
+      "prefix": "PHYS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/phys",
+      "status": "ok",
+      "course_count": 47
+    },
+    {
+      "level": "graduate",
+      "prefix": "PPPE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/pppe",
+      "status": "ok",
+      "course_count": 60
+    },
+    {
+      "level": "graduate",
+      "prefix": "PSCI",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/psci",
+      "status": "ok",
+      "course_count": 48
+    },
+    {
+      "level": "graduate",
+      "prefix": "PSYC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/psyc",
+      "status": "ok",
+      "course_count": 29
+    },
+    {
+      "level": "graduate",
+      "prefix": "REAL",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/real",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "graduate",
+      "prefix": "SCI",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/sci",
+      "status": "ok",
+      "course_count": 15
+    },
+    {
+      "level": "graduate",
+      "prefix": "SE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/se",
+      "status": "ok",
+      "course_count": 17
+    },
+    {
+      "level": "graduate",
+      "prefix": "SMED",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/smed",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "graduate",
+      "prefix": "SOC",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/soc",
+      "status": "ok",
+      "course_count": 17
+    },
+    {
+      "level": "graduate",
+      "prefix": "STAT",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/stat",
+      "status": "ok",
+      "course_count": 41
+    },
+    {
+      "level": "graduate",
+      "prefix": "SYSE",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/syse",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "graduate",
+      "prefix": "SYSM",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/sysm",
+      "status": "ok",
+      "course_count": 42
+    },
+    {
+      "level": "graduate",
+      "prefix": "VPAS",
+      "source_url": "https://catalog.utdallas.edu/2026/graduate/courses/vpas",
+      "status": "ok",
+      "course_count": 56
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ACCT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acct",
+      "status": "ok",
+      "course_count": 25
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ACTS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/acts",
+      "status": "ok",
+      "course_count": 11
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "AHST",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahst",
+      "status": "ok",
+      "course_count": 16
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "AHTC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ahtc",
+      "status": "ok",
+      "course_count": 9
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "AMS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ams",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ANGM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/angm",
+      "status": "ok",
+      "course_count": 80
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ARAB",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arab",
+      "status": "ok",
+      "course_count": 8
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ARHM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arhm",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ARTS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/arts",
+      "status": "ok",
+      "course_count": 46
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ATCM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/atcm",
+      "status": "ok",
+      "course_count": 83
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BA",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ba",
+      "status": "ok",
+      "course_count": 20
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BBSU",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bbsu",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BCOM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bcom",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BIMS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bims",
+      "status": "ok",
+      "course_count": 37
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BIOL",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/biol",
+      "status": "ok",
+      "course_count": 95
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BIS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bis",
+      "status": "ok",
+      "course_count": 11
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BLAW",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/blaw",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BMEN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bmen",
+      "status": "ok",
+      "course_count": 37
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BPS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bps",
+      "status": "ok",
+      "course_count": 4
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "BUAN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/buan",
+      "status": "ok",
+      "course_count": 25
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ce",
+      "status": "ok",
+      "course_count": 35
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CGS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cgs",
+      "status": "ok",
+      "course_count": 30
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CHEM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chem",
+      "status": "ok",
+      "course_count": 51
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CHIN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/chin",
+      "status": "ok",
+      "course_count": 13
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CLDP",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cldp",
+      "status": "ok",
+      "course_count": 35
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "COMM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/comm",
+      "status": "ok",
+      "course_count": 46
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CPSY",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cpsy",
+      "status": "empty",
+      "course_count": 0
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CRIM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crim",
+      "status": "ok",
+      "course_count": 36
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CRWT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/crwt",
+      "status": "ok",
+      "course_count": 14
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cs",
+      "status": "ok",
+      "course_count": 71
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "CYBR",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/cybr",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "DANC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/danc",
+      "status": "ok",
+      "course_count": 29
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ECON",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/econ",
+      "status": "ok",
+      "course_count": 44
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ECS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecs",
+      "status": "ok",
+      "course_count": 11
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ECSC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecsc",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ED",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ed",
+      "status": "ok",
+      "course_count": 31
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "EE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ee",
+      "status": "ok",
+      "course_count": 45
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ENGR",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engr",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ENGY",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/engy",
+      "status": "ok",
+      "course_count": 8
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ENTP",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/entp",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ENVR",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/envr",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "EPCS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epcs",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "EPPS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/epps",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "FILM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/film",
+      "status": "ok",
+      "course_count": 14
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "FIN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fin",
+      "status": "ok",
+      "course_count": 50
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "FREN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/fren",
+      "status": "ok",
+      "course_count": 5
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GEOG",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geog",
+      "status": "ok",
+      "course_count": 16
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GEOS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/geos",
+      "status": "ok",
+      "course_count": 43
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GERM",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/germ",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GISC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gisc",
+      "status": "ok",
+      "course_count": 25
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GOVT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/govt",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "GST",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/gst",
+      "status": "ok",
+      "course_count": 10
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HIND",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hind",
+      "status": "empty",
+      "course_count": 0
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HIST",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hist",
+      "status": "ok",
+      "course_count": 91
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HLTH",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hlth",
+      "status": "ok",
+      "course_count": 18
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HMGT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hmgt",
+      "status": "ok",
+      "course_count": 18
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HONS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/hons",
+      "status": "ok",
+      "course_count": 28
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "HUMA",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/huma",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "IMS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ims",
+      "status": "ok",
+      "course_count": 32
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "IPEC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ipec",
+      "status": "ok",
+      "course_count": 27
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ISAE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isae",
+      "status": "ok",
+      "course_count": 2
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ISAH",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isah",
+      "status": "ok",
+      "course_count": 3
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ISEC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isec",
+      "status": "ok",
+      "course_count": 4
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ISIS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isis",
+      "status": "ok",
+      "course_count": 11
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ISNS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/isns",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "ITSS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/itss",
+      "status": "ok",
+      "course_count": 39
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "JAPN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/japn",
+      "status": "ok",
+      "course_count": 11
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "KORE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/kore",
+      "status": "ok",
+      "course_count": 6
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "LANG",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lang",
+      "status": "ok",
+      "course_count": 9
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "LATS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lats",
+      "status": "ok",
+      "course_count": 7
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "LIT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/lit",
+      "status": "ok",
+      "course_count": 26
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MATH",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/math",
+      "status": "ok",
+      "course_count": 48
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MECH",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mech",
+      "status": "ok",
+      "course_count": 47
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MECO",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/meco",
+      "status": "ok",
+      "course_count": 14
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MILS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mils",
+      "status": "ok",
+      "course_count": 12
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MKT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/mkt",
+      "status": "ok",
+      "course_count": 32
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MSEN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/msen",
+      "status": "ok",
+      "course_count": 29
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "MUSI",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/musi",
+      "status": "ok",
+      "course_count": 65
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "NATS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nats",
+      "status": "ok",
+      "course_count": 22
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "NSC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/nsc",
+      "status": "ok",
+      "course_count": 56
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "OBHR",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/obhr",
+      "status": "ok",
+      "course_count": 26
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "OPRE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/opre",
+      "status": "ok",
+      "course_count": 28
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PA",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/pa",
+      "status": "ok",
+      "course_count": 36
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PHIL",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phil",
+      "status": "ok",
+      "course_count": 43
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PHIN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phin",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PHYS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phys",
+      "status": "ok",
+      "course_count": 38
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PPOL",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ppol",
+      "status": "ok",
+      "course_count": 31
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PSCI",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psci",
+      "status": "ok",
+      "course_count": 71
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "PSY",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/psy",
+      "status": "ok",
+      "course_count": 69
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "REAL",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/real",
+      "status": "ok",
+      "course_count": 9
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "RELS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rels",
+      "status": "ok",
+      "course_count": 24
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "RHET",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rhet",
+      "status": "ok",
+      "course_count": 8
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "RMIS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/rmis",
+      "status": "ok",
+      "course_count": 12
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/se",
+      "status": "ok",
+      "course_count": 23
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SGNL",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/sgnl",
+      "status": "ok",
+      "course_count": 4
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SOC",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/soc",
+      "status": "ok",
+      "course_count": 46
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SPAN",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/span",
+      "status": "ok",
+      "course_count": 19
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SPAU",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/spau",
+      "status": "ok",
+      "course_count": 32
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "STAT",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/stat",
+      "status": "ok",
+      "course_count": 21
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "SYSE",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/syse",
+      "status": "ok",
+      "course_count": 13
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "THEA",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/thea",
+      "status": "ok",
+      "course_count": 31
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "UNIV",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/univ",
+      "status": "ok",
+      "course_count": 19
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "URDU",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/urdu",
+      "status": "ok",
+      "course_count": 1
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "VIET",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/viet",
+      "status": "ok",
+      "course_count": 7
+    },
+    {
+      "level": "undergraduate",
+      "prefix": "VPAS",
+      "source_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/vpas",
+      "status": "ok",
+      "course_count": 9
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phys",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/phys",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:03+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "4a21a3ed8bcd2e1c79e77df9316d4f986664f4b511dc484a16b825c36bd2359c",
+  "size_bytes": 149038,
+  "path": "raw/http/4012aad705789b1d0c723a712a6a296570199bd86ed45fb895ad3593897d6b0e.html"
+}

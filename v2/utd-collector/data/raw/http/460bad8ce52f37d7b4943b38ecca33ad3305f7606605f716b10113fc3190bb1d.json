@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bis",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/bis",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:30+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b17731d3bd449eb71679ad4437738134e80775faf767c630cc517428433b8545",
+  "size_bytes": 121375,
+  "path": "raw/http/460bad8ce52f37d7b4943b38ecca33ad3305f7606605f716b10113fc3190bb1d.html"
+}

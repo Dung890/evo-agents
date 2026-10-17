@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecs",
+  "final_url": "https://catalog.utdallas.edu/2026/undergraduate/courses/ecs",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:48:54+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b17639e4c671817c43a13e5d6e4bcb1e7889608abc73a3087459520ec04a1c96",
+  "size_bytes": 123550,
+  "path": "raw/http/3d9ab0a65ad94b7ff950d06dd2da0991d1b6a01d1dd2c9fc635078efd7acc8ed.html"
+}

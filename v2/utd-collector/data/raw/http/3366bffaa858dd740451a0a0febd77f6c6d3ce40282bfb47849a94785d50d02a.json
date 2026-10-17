@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eepe",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eepe",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:56+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5531d948a2b5eaac7b241799e0f4de9a355aaa495eb08f302c1c3d06177c7d3e",
+  "size_bytes": 171517,
+  "path": "raw/http/3366bffaa858dd740451a0a0febd77f6c6d3ce40282bfb47849a94785d50d02a.html"
+}

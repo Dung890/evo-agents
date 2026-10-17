@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/eebm",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/eebm",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:50:48+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5ce45dcaaf0f0ba9bfa5a6cb254058fe51ae6f1522f45867b4cc5ad468a7835a",
+  "size_bytes": 166203,
+  "path": "raw/http/ce236a72cdc31a7dca7407b341631bbf6ea5b0b086cf178fd11eeef764226979.html"
+}

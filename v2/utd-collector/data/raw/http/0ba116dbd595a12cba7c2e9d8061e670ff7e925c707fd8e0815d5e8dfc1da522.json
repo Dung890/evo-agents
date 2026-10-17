@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/nats",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/nats",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:35+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "5f80b4daac0e301b0928a545d535c4d949bc161dec58e3ada134e427ca31250b",
+  "size_bytes": 164677,
+  "path": "raw/http/0ba116dbd595a12cba7c2e9d8061e670ff7e925c707fd8e0815d5e8dfc1da522.html"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://catalog.utdallas.edu/2026/graduate/courses/pppe",
+  "final_url": "https://catalog.utdallas.edu/2026/graduate/courses/pppe",
+  "method": "GET",
+  "form": null,
+  "retrieved_at": "2026-10-17T21:51:46+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "d0bafe7b807e9f53a42279156104ee84e4823191c7ca3b5df223ea50365b540c",
+  "size_bytes": 215107,
+  "path": "raw/http/72ac90b1e315516c7e9da69e0b9cf82786ea393dfa618a129bb537791425046a.html"
+}
